@@ -1,0 +1,8 @@
+1325604308
+Application	/home/comix/rails_projects/testowa_aplikacja/config/application.rb	  class Application 
+ApplicationController	/home/comix/rails_projects/testowa_aplikacja/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	/home/comix/rails_projects/testowa_aplikacja/app/helpers/application_helper.rb	module ApplicationHelper
+BrowsingTest	/home/comix/rails_projects/testowa_aplikacja/test/performance/browsing_test.rb	class BrowsingTest 
+TestCase	/home/comix/rails_projects/testowa_aplikacja/test/test_helper.rb	class ActiveSupport::TestCase
+TestowaAplikacja	/home/comix/rails_projects/testowa_aplikacja/config/application.rb	module TestowaAplikacja
+test_homepage	/home/comix/rails_projects/testowa_aplikacja/test/performance/browsing_test.rb	  def test_homepage
