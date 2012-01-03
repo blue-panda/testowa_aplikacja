@@ -1,4 +1,4 @@
-1325606603
+1325606776
 Application	/home/comix/rails_projects/testowa_aplikacja/config/application.rb	  class Application 
 ApplicationController	/home/comix/rails_projects/testowa_aplikacja/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/home/comix/rails_projects/testowa_aplikacja/app/helpers/application_helper.rb	module ApplicationHelper
